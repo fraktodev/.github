@@ -26,6 +26,8 @@
 While our packages and tooling are maturing quickly, the Frakto organization is currently operating in **private beta**.  
 We’re laying the foundation with love, detail, and long-term vision. Stay tuned.
 
+## Official Links
+
 [![Official Site](https://img.shields.io/badge/Site-frakto.dev-blue?logo=google-chrome&logoColor=white)](https://frakto.dev)
 [![Twitter](https://img.shields.io/badge/Twitter-@fraktodev-1DA1F2?logo=x&logoColor=white)](https://x.com/fraktodev)
 [![NPM](https://img.shields.io/badge/NPM-%40frakto-red?logo=npm&logoColor=white)](https://www.npmjs.com/org/frakto)
